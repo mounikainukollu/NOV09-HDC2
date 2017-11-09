@@ -1,0 +1,4 @@
+1) GIT HUB--> web based repository
+2)GIT BASh--> windows cmd based prompt 
+
+3) GERRIT --> Cloud environment
